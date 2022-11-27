@@ -1,0 +1,42 @@
+@import "../../../style-config/variable.scss";
+@import "../../../style-config/mixins.scss";
+
+.contact-info-box {
+  background: $black-lighter;
+  width: 355px;
+  padding: 30px;
+  border-radius: 6px;
+  color: $gray;
+
+  @media only screen and (max-width: 768px) {
+    width: 100%;
+  }
+
+  h4 {
+    line-height: 34px;
+    margin-bottom: 20px;
+
+    @media only screen and (max-width: 768px) {
+      text-align: center;
+    }
+  }
+  .contact-option {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+
+    @media only screen and (max-width: 768px) {
+      display: flex;
+      justify-content: center;
+    }
+
+    svg {
+      color: $yellow;
+      font-size: 16px;
+    }
+    .txt {
+      color: $white;
+      margin-left: 15px;
+    }
+  }
+}
