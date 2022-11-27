@@ -20,7 +20,7 @@ const IntroContent = () => {
               &nbsp;
               <span className="text"> korepetytora</span>
             </span>
-            <span className="big-text">z matematyki?</span>
+            <span className="big-text">z&nbsp;matematyki?</span>
           </h1>
           <p>
             Absolwent Uniwersytetu Technologiczno-Humanistycznego im. Kazimierza
