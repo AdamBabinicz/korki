@@ -25,7 +25,7 @@ const IntroContent = () => {
           <p>
             Absolwent Uniwersytetu Technologiczno-Humanistycznego im. Kazimierza
             Pułaskiego w Radomiu oferuje korepetycje z&nbsp;matematyki dla
-            uczniów szkół podstawowych, średnich oraz&nbsp;studentów.
+            uczniów szkół podstawowych oraz&nbsp;średnich.
           </p>
           <a href="tel:+48531890827">
             <CallToAction text="Zadzwoń!" />

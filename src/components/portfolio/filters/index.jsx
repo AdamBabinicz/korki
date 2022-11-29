@@ -23,10 +23,10 @@ const filtersData = [
     name: "Matura",
     id: "mobile-app",
   },
-  {
-    name: "Studia",
-    id: "studia",
-  },
+  // {
+  //   name: "Studia",
+  //   id: "studia",
+  // },
 ];
 
 const Filters = ({ filterProjects }) => {

@@ -62,14 +62,14 @@ const projectsData = [
       thumbnail: require("../../images/portfolio/7.jpg"),
     },
   },
-  {
-    id: 8,
-    name: "Studia",
-    tags: ["studia", "...", "..."],
-    media: {
-      thumbnail: require("../../images/portfolio/2.webp"),
-    },
-  },
+  // {
+  //   id: 8,
+  //   name: "Studia",
+  //   tags: ["studia", "...", "..."],
+  //   media: {
+  //     thumbnail: require("../../images/portfolio/2.webp"),
+  //   },
+  // },
 ];
 
 const Portfolio = () => {
