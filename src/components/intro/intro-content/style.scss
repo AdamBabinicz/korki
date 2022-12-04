@@ -20,6 +20,11 @@
     .left-col {
       width: 45%;
 
+      p.log {
+        color: $yellow !important;
+        font-weight: 700;
+      }
+
       @media only screen and (max-width: 768px) {
         width: 100%;
       }

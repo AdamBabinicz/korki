@@ -11,6 +11,7 @@ const IntroContent = () => {
     <div className="intro-content">
       <div className="layout">
         <div className="left-col">
+          <p className="log">EDU-RAF</p>
           <h1 className="title">
             <span className="small-text">
               <span className="text">Szukasz </span>
