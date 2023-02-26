@@ -28,7 +28,7 @@ const IntroContent = () => {
             Pułaskiego w Radomiu oferuje korepetycje z&nbsp;matematyki dla
             uczniów szkół podstawowych oraz&nbsp;średnich.
           </p>
-          <a href="tel:+48531890827">
+          <a href="tel:+48516283896">
             <CallToAction text="Zadzwoń!" />
           </a>
         </div>
