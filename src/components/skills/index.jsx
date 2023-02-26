@@ -27,7 +27,7 @@ const Skills = () => {
           </p>
           <p>
             Przygotowuję uczniów do egzaminu ósmoklasisty z matematyki zgodnie z
-            wymaganiami OKE.
+            wymaganiami CKE.
           </p>
           <p>
             <b>Matura podstawowa</b>

@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./style.scss";
 import Section from "../shared/section";
-import Blog1 from "../../images/blogs/19.jpg";
-import Blog2 from "../../images/blogs/2.jpg";
-import Blog3 from "../../images/blogs/3.jpg";
+import Blog1 from "../../images/blogs/4.jpg";
+import Blog2 from "../../images/blogs/1.jpg";
+import Blog3 from "../../images/blogs/5.jpg";
 import BlogCard from "./blog-card";
 import Arrow from "../shared/arrow";
 import img101 from "../../images/23.png";
@@ -22,25 +22,25 @@ const Blogs = () => {
     >
       <div className="blogs-content-wrapper">
         <BlogCard
-          user="Alojzy Ur"
-          date="1 marca 2023"
-          image={Blog1}
-          title="Jestem zadowolony"
-          description="Klarownie i zrozumiale tłumaczy trudne dla mnie zadania z funkcji"
-        />
-        <BlogCard
-          user="Balbina Sar"
-          date="2 marca 2023"
+          user="mama Janka"
+          date="14 czerwca 2022"
           image={Blog2}
-          title="Co za ulga"
-          description="Cieszę się, że Rafał odrabia ze mną lekcje z geometrii i dzięki temu nie jestem już nogą z matematyki!"
+          title="Po prostu super"
+          description="Dobrze, że mógł pisać z wielokątów, może uda mu się poprawić ocenę. Ciekawe tylko, czy z brył też mógłby się poprawić?"
         />
         <BlogCard
-          user="Ryszard Lew"
-          date="2 marca 2023"
+          user="Olek"
+          date="1 lipca 2022"
+          image={Blog1}
+          title="Jestem super zadowolony"
+          description="100% z matematyki!"
+        />
+        <BlogCard
+          user="Marcel"
+          date="10 lipca 2022"
           image={Blog3}
           title="Szacun"
-          description="Dzięki Rafałowi zdam maturę z matematyki w tym roku!"
+          description="Dzięki Rafałowi zdałem maturę z matematyki w 82%!"
         />
       </div>
 

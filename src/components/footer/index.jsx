@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="footer-logo" onClick={() => scrollToSection("home")}>
           <img src={logo} alt="..." />
         </div>
-        <p className="log">EDU-RAF</p>
+        <p className="log">RAF-EDU</p>
         <ul className="footer-menu-items">
           <li
             className="footer-menu-item"

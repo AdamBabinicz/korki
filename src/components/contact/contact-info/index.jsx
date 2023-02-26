@@ -17,7 +17,7 @@ const ContactInfo = () => {
       <div className="contact-option">
         <MdEmail />
         &nbsp;
-        <span className="txt">puaro@vp.pl</span>
+        <span className="txt">rafal.podymniak97@gmail.com</span>
       </div>
     </div>
   );
