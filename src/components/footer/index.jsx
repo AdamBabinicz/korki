@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
         <div className="bottom-bar">
           <div className="copyright-text">
-            Radom, 2022 - {new Date().getFullYear()}.
+            Radom, 2023 - {new Date().getFullYear()}.
           </div>
         </div>
       </div>

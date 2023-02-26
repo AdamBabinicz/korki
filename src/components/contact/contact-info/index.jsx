@@ -10,7 +10,9 @@ const ContactInfo = () => {
       <div className="contact-option">
         <FaPhoneAlt />
         &nbsp;
-        <span className="txt">+48 000 000 000</span>
+        <a href="mailto:+48 516283896">
+          <span className="txt">+48 516 283 896</span>
+        </a>
       </div>
       <div className="contact-option">
         <MdEmail />
