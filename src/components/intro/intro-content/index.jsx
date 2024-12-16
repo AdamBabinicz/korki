@@ -2,7 +2,7 @@ import React from "react";
 import "./style.scss";
 import hand from "../../../images/hand.png";
 import CallToAction from "../../shared/callToAction";
-import img from "../../../images/8.png";
+import img from "../../../images/8.avif";
 import { BsAwardFill } from "react-icons/bs";
 import { FaUser } from "react-icons/fa";
 
