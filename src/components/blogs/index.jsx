@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 import "./style.scss";
 import Section from "../shared/section";
-import Blog1 from "../../images/blogs/4.jpg";
-import Blog2 from "../../images/blogs/1.jpg";
-import Blog3 from "../../images/blogs/5.jpg";
+import Blog1 from "../../images/blogs/4.avif";
+import Blog2 from "../../images/blogs/1.avif";
+import Blog3 from "../../images/blogs/5.avif";
 import BlogCard from "./blog-card";
 import Arrow from "../shared/arrow";
-import img101 from "../../images/23.png";
+import img101 from "../../images/23.avif";
 
 const Blogs = () => {
   const [toggleState, setToggleState] = useState(0);

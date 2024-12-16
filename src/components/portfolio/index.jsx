@@ -11,7 +11,7 @@ const projectsData = [
     name: "Klasy 4-6",
     tags: ["...", "product"],
     media: {
-      thumbnail: require("../../images/portfolio/1.jpg"),
+      thumbnail: require("../../images/portfolio/1.avif"),
     },
   },
   {
@@ -19,7 +19,7 @@ const projectsData = [
     name: "Klasy 7-8",
     tags: ["product"],
     media: {
-      thumbnail: require("../../images/portfolio/6.jpg"),
+      thumbnail: require("../../images/portfolio/6.avif"),
     },
   },
   {
@@ -27,7 +27,7 @@ const projectsData = [
     name: "E 8",
     tags: ["web-page"],
     media: {
-      thumbnail: require("../../images/portfolio/2.jpg"),
+      thumbnail: require("../../images/portfolio/2.avif"),
     },
   },
   {
@@ -35,7 +35,7 @@ const projectsData = [
     name: "Pierwsza część",
     tags: ["web-app", "..."],
     media: {
-      thumbnail: require("../../images/portfolio/3.jpg"),
+      thumbnail: require("../../images/portfolio/3.avif"),
     },
   },
   {
@@ -43,7 +43,7 @@ const projectsData = [
     name: "Druga część",
     tags: ["web-app", "..."],
     media: {
-      thumbnail: require("../../images/portfolio/4.jpg"),
+      thumbnail: require("../../images/portfolio/4.avif"),
     },
   },
   {
@@ -51,7 +51,7 @@ const projectsData = [
     name: "Matura",
     tags: ["...", "...", "mobile-app"],
     media: {
-      thumbnail: require("../../images/portfolio/5.jpg"),
+      thumbnail: require("../../images/portfolio/5.avif"),
     },
   },
   {
@@ -59,7 +59,7 @@ const projectsData = [
     name: "Egzamin maturalny",
     tags: ["mobile-app"],
     media: {
-      thumbnail: require("../../images/portfolio/7.jpg"),
+      thumbnail: require("../../images/portfolio/7.avif"),
     },
   },
   // {
