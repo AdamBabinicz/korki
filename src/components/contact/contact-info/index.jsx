@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 const ContactInfo = () => {
   return (
     <div className="contact-info-box">
-      <h4>Chętnie odpowiem</h4>
+      <h3>Chętnie odpowiem</h3>
       <div className="contact-option">
         <FaPhoneAlt />
         &nbsp;
