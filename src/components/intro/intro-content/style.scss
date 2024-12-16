@@ -87,6 +87,7 @@
         display: block;
         margin-bottom: 40px;
         @include large-screen {
+          object-fit: cover;
           margin-bottom: 50px;
           position: relative;
           right: -100px;
