@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.scss";
-import cloud from "../../images/cloud.png";
-import cloudSoft from "../../images/cloud-soft.png";
+import cloud from "../../images/cloud.avif";
+import cloudSoft from "../../images/cloud-soft.avif";
 import Navigation from "../navigation-bar";
 import IntroContent from "./intro-content";
 

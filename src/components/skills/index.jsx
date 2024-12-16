@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.scss";
 import Section from "../shared/section";
-import img from "../../images/4.png";
+import img from "../../images/4.avif";
 import CallToAction from "../shared/callToAction";
 import { AiOutlineCloudDownload } from "react-icons/ai";
 import plik from "../../plik.pdf";

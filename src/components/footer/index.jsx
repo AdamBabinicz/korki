@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.scss";
 import Section from "../shared/section";
-import logo from "../../images/22.png";
+import logo from "../../images/22.avif";
 import { FaYoutube, FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 import SocialIcon from "./social-icon";
 import { scrollToSection } from "../utils/helpers";
