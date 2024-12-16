@@ -25,7 +25,7 @@ const Showcase = ({ data, transition }) => {
               <Arrow />
             </div>
           </div>
-          <img src={project.media.thumbnail} />
+          <img src={project.media.thumbnail} alt="..." />
         </div>
       ))}
     </div>
